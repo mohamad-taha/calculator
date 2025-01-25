@@ -10,8 +10,8 @@ This is a solution to the [Calculator app challenge on Frontend Mentor](https://
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-simple-user-friendly-calculator-for-basic-arithmetic-operations-PaVXnK2QHc)
+- Live Site URL: [Add live site URL here](https://mohamad-taha.github.io/calculator/)
 
 ### Built with
 
